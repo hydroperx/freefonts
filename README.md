@@ -1,4 +1,4 @@
-# Character fonts
+# Free fonts
 
 Some free equivalents of some character fonts.
 
