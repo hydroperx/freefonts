@@ -6,6 +6,8 @@ This repository contains downloads of the alternative fonts, however these do no
 
 ## Courier New
 
+<details><summary>Courier New</summary>
+
 This mono font is generally used for code, way serif. It is a web safe font, but its design varies across systems (for example, Windows versus Linux).
 
 Closest free alternatives to Courier New:
@@ -15,7 +17,11 @@ Closest free alternatives to Courier New:
 1. [Nimbus Mono](downloads/nimbus_mono) (Bold_wght).
 2. Courier Prime.
 
+</details>
+
 ## Segoe UI
+
+<details><summary>Segoe UI</summary>
 
 This font is generally used in the user interface.
 
@@ -25,7 +31,11 @@ Closest free alternatives:
 
 1. [Open Sans](downloads/open_sans)
 
+</details>
+
 ## Times New Roman
+
+<details><summary>Times New Roman</summary>
 
 This font is generally used for news and documentation papers.
 
@@ -35,7 +45,11 @@ Closest free alternatives:
 
 1. [Liberation Serif](downloads/liberation_serif)
 
+</details>
+
 ## Cambria
+
+<details><summary>Cambria</summary>
 
 This is sort of a serif font that may be used similiarly to Times New Roman, with a less aggressive serif characteristic.
 
@@ -44,3 +58,5 @@ Closest free alternatives:
 ![image](https://github.com/user-attachments/assets/46a25d3a-f844-407a-8313-a6280861b90c)
 
 1. [Caladea](downloads/caladea)
+
+</details>
