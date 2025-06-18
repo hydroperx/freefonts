@@ -23,13 +23,12 @@ Closest free alternatives to Courier New:
 
 <details><summary>Segoe UI</summary>
 
-This font is generally used in the user interface.
+This font is generally used in user interface elements.
 
 Closest free alternatives:
 
-![image](https://github.com/user-attachments/assets/1c10b9c6-f807-4fa4-8104-350c212e81d4)
-
-1. [Open Sans](downloads/open_sans)
+1. [Noto Sans](downloads/noto_sans)
+2. Open Sans
 
 </details>
 
