@@ -1,6 +1,6 @@
 # Character fonts
 
-Some equivalents of some character fonts.
+Some free equivalents of some character fonts.
 
 ## Courier New
 
