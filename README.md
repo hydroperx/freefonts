@@ -39,8 +39,8 @@ Closest free alternatives:
 
 This is sort of a serif font that may be used similiarly to Times New Roman, with a less aggressive serif characteristic.
 
-![image](https://github.com/user-attachments/assets/46a25d3a-f844-407a-8313-a6280861b90c)
-
 Closest free alternatives:
+
+![image](https://github.com/user-attachments/assets/46a25d3a-f844-407a-8313-a6280861b90c)
 
 1. [Caladea](downloads/caladea)
