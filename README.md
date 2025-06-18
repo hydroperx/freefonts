@@ -29,7 +29,7 @@ Closest free alternatives:
 
 ## Cambria
 
-This is sort of a serif font that may be used similiarly to Times New Roman.
+This is sort of a serif font that may be used similiarly to Times New Roman, with a less aggressive serif characteristic.
 
 Closest free alternatives:
 
