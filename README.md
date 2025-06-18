@@ -1,6 +1,6 @@
 # Free fonts
 
-List of some free equivalents of some character fonts.
+List of some free equivalents of some Windows bundled character fonts.
 
 This repository contains downloads of the alternative fonts, however these do not belong to me: make sure to read and include their bundled license.
 
