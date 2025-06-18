@@ -6,7 +6,7 @@ This repository contains downloads of the alternative fonts, however these do no
 
 ## Courier New
 
-This mono font is generally used for code. It is a web safe font, but its design varies across systems (for example, Windows versus Linux).
+This mono font is generally used for code, way serif. It is a web safe font, but its design varies across systems (for example, Windows versus Linux).
 
 Closest free alternatives to Courier New:
 
