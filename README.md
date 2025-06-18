@@ -14,3 +14,9 @@ Closest to Courier New (Windows version):
 Closest to Segoe UI:
 
 1. Open Sans
+
+## Times New Roman
+
+Closest to Times New Roman:
+
+1. Liberation Serif
