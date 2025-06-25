@@ -12,10 +12,8 @@ This mono font is generally used for code, way serif. It is a web safe font, but
 
 Closest free alternatives to Courier New:
 
-![image](https://github.com/user-attachments/assets/fdf38289-860a-48fd-a58c-a19945f1c3ed)
-
-1. [Nimbus Mono](downloads/nimbus_mono) (Bold_wght).
-2. Courier Prime.
+1. [Nimbus Mono](downloads/nimbus_mono) (Bold_wght). Adequate for books and gray backgrounds, using the bold variant.
+2. [Courier Prime](downloads/courier_prime). Adequate for code editors and varying color backgrounds.
 
 </details>
 
