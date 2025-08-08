@@ -64,7 +64,7 @@ This font appeared up until Windows 8.1 and was used at the Command Prompt and P
 
 Closest free alternatives:
 
-1. [Fixedsys Excelsior](downloads/fixedsys_excelsior)
-2. PxPlus IBM VGA 8x16
+1. [PxPlus IBM VGA 8x16](downloads/ibm_vga_8x16)
+2. [Fixedsys Excelsior](downloads/fixedsys_excelsior)
 
 </details>
