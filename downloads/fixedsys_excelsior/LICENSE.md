@@ -1,4 +1,4 @@
-I DO NOT OWN THIS FONT. It was obtained from https://github.com/kika/fixedsys
+Font obtained from https://github.com/kika/fixedsys
 
 From the mentioned repository:
 
