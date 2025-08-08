@@ -55,3 +55,16 @@ Closest free alternatives:
 1. [Crimson Pro](downloads/crimson_pro)
 
 </details>
+
+## Terminal
+
+<details><summary>Terminal</summary>
+
+This font appeared up until Windows 8.1 and was used at the Command Prompt and PowerShell. (Also known as "Windows 8x12 Console").
+
+Closest free alternatives:
+
+1. [Fixedsys Excelsior](downloads/fixedsys_excelsior)
+2. PxPlus IBM VGA 8x16
+
+</details>
